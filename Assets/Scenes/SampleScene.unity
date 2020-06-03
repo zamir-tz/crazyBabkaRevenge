@@ -1657,7 +1657,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.28, y: 1.28}
+  m_Size: {x: 0.9330015, y: 1.28}
   m_EdgeRadius: 0
 --- !u!1 &1101743756
 GameObject:
@@ -1840,7 +1840,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 3.0570202
+  orthographic size: 5.7568836
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
