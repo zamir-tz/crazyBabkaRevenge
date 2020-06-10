@@ -23,6 +23,7 @@ public class PlayerMovement : MonoBehaviour
        if (Input.GetButtonDown("Jump"))
         {
             jump = true;
+            Debug.Log("sad");
         }
 
     }
